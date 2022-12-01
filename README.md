@@ -18,3 +18,4 @@ sudo service codedeploy-agent status
 sudo yum install -y python-pip
 sudo pip install awscli
 then create codedeploy and create codepipeline
+Use this url for any error [https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent-operations-verify.html]
